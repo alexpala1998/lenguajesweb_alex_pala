@@ -1,12 +1,12 @@
 body{
   margin:0;
   height:100vh;
-  background:black;
-  color:white;
+  background:#000;
+  color:#fff;
   display:flex;
-  justify-content:center;   /* Centra horizontal */
-  align-items:center;        /* Centra vertical */
+  justify-content:center;
+  align-items:center;
   font-family:Arial;
-  text-align:center;
 }
+
 
