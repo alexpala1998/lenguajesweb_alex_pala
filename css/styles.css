@@ -1,11 +1,12 @@
 body{
+  margin:0;
+  height:100vh;
   background:black;
   color:white;
-  margin:0;
+  display:flex;
+  justify-content:center;   /* Centra horizontal */
+  align-items:center;        /* Centra vertical */
   font-family:Arial;
   text-align:center;
 }
 
-h1{
-  margin-top:40px;
-}
