@@ -1,4 +1,11 @@
+body{
+  background:black;
+  color:white;
+  margin:0;
+  font-family:Arial;
+  text-align:center;
+}
+
 h1{
-    background-color: black;
-    color:white
+  margin-top:40px;
 }
