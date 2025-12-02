@@ -1,14 +1,25 @@
-body{
-  background:black;
-  color:white;
-  margin:0;
-  font-family:Arial;
-  text-align:center;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-h1{
-  margin-top:40px;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(2, 5, 4);
 }
 
+.cabecera {
+  background-color: rgb(40, 225, 65);
+  color: white;
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
 
-
+.contenedor-cabecera {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+}
